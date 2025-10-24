@@ -20,4 +20,4 @@ Installation: copy/create files. Make sure to get the right outputs and inputs w
 
 # Wallpaper original
 
-I used gowall to translate the wallpaper to kanagawa, so here`s the (original)[https://wallhaven.cc/w/5g22q5]
+I used gowall to translate the wallpaper to kanagawa, so here`s the [original](https://wallhaven.cc/w/5g22q5)
