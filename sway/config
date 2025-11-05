@@ -78,6 +78,12 @@ input type:keyboard {
     bindsym $mod+Shift+Down move down
     bindsym $mod+Shift+Up move up
     bindsym $mod+Shift+Right move right
+
+#
+# Take screenshots:
+#
+    set $screenshot_out $(xdg-user-dir PICTURES)/screenshots/screenshot-$(date +"%Y%m%d-%H%M%S").png
+    bindsym $mod+Shift+o exec grim -g "$(slurp)" | wl-copy
 #
 # Workspaces:
 #
@@ -110,7 +116,7 @@ input type:keyboard {
 #
     # You can "split" the current object of your focus with
     # $mod+b or $mod+v, for horizontal and vertical splits
-    # respectively.
+    # respectively
     bindsym $mod+b splith
     bindsym $mod+v splitv
 
