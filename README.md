@@ -6,7 +6,14 @@ Using foot terminal, tofi app selector, waybar bar.
 
 Check configs for explanations.
 
-Installation: copy/create files. Make sure to get the right outputs and inputs with swaymsg -t get_outputs and swaymsg -t get_inputs. Cook
+Installation: copy/create files. Make sure to get the right outputs and inputs with 
+`swaymsg -t get_outputs`
+
+ and 
+
+`swaymsg -t get_inputs`. 
+
+Cook
 
 # Dependencies
 
