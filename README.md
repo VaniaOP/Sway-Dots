@@ -32,6 +32,8 @@ Cook.
 * Lore [uber dots](https://github.com/lryfer/UberDots)
 * Useful [addons](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
 
+Use grim for screenshots, check config for hotkeys.
+
 # Wallpaper original
 
 I used gowall to translate the wallpaper to kanagawa, so here`s the [original](https://wallhaven.cc/w/5g22q5)
