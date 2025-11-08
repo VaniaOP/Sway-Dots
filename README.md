@@ -46,6 +46,6 @@ Terminal
 
 ![SwayWTerm](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayWTerm.png?raw=true)
 
-Tofu
+Tofi
 
 ![SwayTofi](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayTofi.png?raw=true)
