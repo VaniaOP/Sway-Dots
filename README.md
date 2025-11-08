@@ -38,6 +38,14 @@ I used gowall to translate the wallpaper to kanagawa, so here`s the [original](h
 
 # Config 
 
+Desktop
+
 ![SwayDE](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayDE.png?raw=true)
+
+Terminal 
+
 ![SwayWTerm](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayWTerm.png?raw=true)
+
+Tofu
+
 ![SwayTofi](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayTofi.png?raw=true)
