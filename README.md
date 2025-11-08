@@ -1,10 +1,8 @@
 # Sway-Dots
 
-Dots for my Sway config.
+My minimalistic Sway DE config.
 
-Using foot terminal, tofi app selector, waybar bar.
-
-Check configs for explanations.
+Using foot terminal, tofi, waybar.
 
 Installation: 
 
@@ -19,8 +17,6 @@ Installation:
  and 
 
 `swaymsg -t get_inputs`. 
-
-Cook.
 
 # Dependencies
 
