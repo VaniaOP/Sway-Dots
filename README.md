@@ -1,10 +1,8 @@
 # Sway-Dots
 
-Dots for my Sway config.
+My minimalistic Sway DE config.
 
-Using foot terminal, tofi app selector, waybar bar.
-
-Check configs for explanations.
+Using foot terminal, tofi, waybar.
 
 Installation: 
 
@@ -20,8 +18,6 @@ Installation:
 
 `swaymsg -t get_inputs`. 
 
-Cook.
-
 # Dependencies
 
 ## check
@@ -32,12 +28,22 @@ Cook.
 * Lore [uber dots](https://github.com/lryfer/UberDots)
 * Useful [addons](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
 
+Use grim for screenshots, check config for hotkeys.
+
 # Wallpaper original
 
 I used gowall to translate the wallpaper to kanagawa, so here`s the [original](https://wallhaven.cc/w/5g22q5)
 
 # Config 
 
+Desktop
+
 ![SwayDE](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayDE.png?raw=true)
+
+Terminal 
+
 ![SwayWTerm](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayWTerm.png?raw=true)
+
+Tofi
+
 ![SwayTofi](https://github.com/VaniaOP/Sway-Dots/blob/main/sway/SwayTofi.png?raw=true)
