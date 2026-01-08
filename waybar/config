@@ -4,7 +4,7 @@
     "height": 24,
     "spacing": 5,
 
-    "modules-left": ["hyprland/workspaces", "custom/platform-profile", "temperature"],
+    "modules-left": ["sway/workspaces", "custom/platform-profile", "temperature"],
     "modules-center": ["clock"],
     "modules-right": ["wireplumber", "battery", "hyprland/language", "idle_inhibitor", "network", "bluetooth", "tray"],
 
