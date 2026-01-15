@@ -25,7 +25,6 @@ Installation:
 * [sway git](https://github.com/swaywm/sway/wiki)
 * [screencast](https://github.com/emersion/xdg-desktop-portal-wlr/wiki/Screencast-Compatibility)
 * official [website](https://swaywm.org/)
-* Lore [uber dots](https://github.com/lryfer/UberDots)
 * Useful [addons](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
 
 Use grim for screenshots, check config for hotkeys.
