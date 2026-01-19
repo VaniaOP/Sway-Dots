@@ -27,7 +27,7 @@ input 1133:49309:Logitech_G203_LIGHTSYNC_Gaming_Mouse {
     natural_scroll disabled
     dwt enabled
     accel_profile "flat" # disable mouse acceleration (enabled by    default; to set it manually, use "adaptive" instead of "flat")
-    pointer_accel 0.1 # set mouse sensitivity (between -1 and 1)
+    pointer_accel -0.5 # set mouse sensitivity (between -1 and 1)
 }
 
 input type:keyboard {
