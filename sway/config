@@ -9,7 +9,7 @@ set $left h
 set $down j
 set $up k
 set $right l
-set $term alacritty
+set $term foot
 set $menu tofi-drun | xargs swaymsg exec --
 output * bg ~/.config/sway/wallpaper.jpg fill
 
