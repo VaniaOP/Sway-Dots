@@ -19,7 +19,7 @@ Installation:
 `swaymsg -t get_inputs`. 
 
 # Dependencies
-
+> now using swayfx, just delete the swayfx part in the config if using sway
 ## check
 * [arch docs](https://wiki.archlinux.org/title/Sway)
 * [sway git](https://github.com/swaywm/sway/wiki)

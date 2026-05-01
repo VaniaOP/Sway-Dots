@@ -136,6 +136,18 @@ input type:keyboard {
 
     # Move focus to the parent container
     bindsym $mod+a focus parent
+
+#
+# swayfx options
+#
+    #blur config
+    #just a little for the terminal
+    blur enable
+    blur_passes 2
+    blur_radius 2
+    #a little corner radius
+    corner_radius 4
+
 #
 # Audio Controls:
 #
